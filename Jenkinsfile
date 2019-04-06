@@ -36,3 +36,10 @@ if (boolValue && notEmptyStr && numberList) {
 }else{
     println "Condition is false"
 }
+
+
+// A collection object holding the four seasons.
+def seasons = ["winter", "season", "Spring", "Autum"]
+for(season in seasons){
+ println season
+}
