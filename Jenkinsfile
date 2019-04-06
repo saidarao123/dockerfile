@@ -22,6 +22,6 @@ println number
 
 // A string is nothing but a sequnce of characters.
 def hello = "Hello"
-for(achar in hello) {
+for(aChar in hello) {
  println aChar
 }
