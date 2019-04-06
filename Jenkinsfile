@@ -20,3 +20,8 @@ for(number in numbers) {
 println number
 }
 
+// A string is nothing but a sequnce of characters.
+def hello = "Hello"
+for(achar in hello) {
+ println aChar
+}
