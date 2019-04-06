@@ -25,3 +25,12 @@ def hello = "Hello"
 for(aChar in hello) {
  println "$aChar \n"
 }
+
+boolValue = true
+notEmptyStr = newstring("Hello");
+numberList = ["1", "2", "3"]
+if (boolValue && notEmptyStr && numberList) {
+ println "condition is true"
+}else{
+ println "condition is false"
+}
