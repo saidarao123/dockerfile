@@ -23,5 +23,5 @@ println number
 // A string is nothing but a sequnce of characters.
 def hello = "Hello"
 for(aChar in hello) {
- println aChar \n
+ println "aChar \n"
 }
