@@ -28,10 +28,11 @@ for(aChar in hello) {
 
 // Loop conditions
 boolValue = true
-notEmptyStr = newstring("Hello");
-numberList = ["1", "2", "3"]
+notEmptyStr = new String("Hello");
+numberList = ["1","2", "3"]
+
 if (boolValue && notEmptyStr && numberList) {
- println "condition is true"
+    println "Condition is true"
 }else{
- println "condition is false"
+    println "Condition is false"
 }
