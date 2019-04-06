@@ -26,6 +26,7 @@ for(aChar in hello) {
  println "$aChar \n"
 }
 
+// Loop conditions
 boolValue = true
 notEmptyStr = newstring("Hello");
 numberList = ["1", "2", "3"]
