@@ -26,18 +26,6 @@ for(aChar in hello) {
  println "$aChar \n"
 }
 
-// Loop conditions
-boolValue = true
-notEmptyStr = new String("Hello");
-numberList = ["1","2", "3"]
-
-if (boolValue && notEmptyStr && numberList) {
-    println "Condition is true"
-}else{
-    println "Condition is false"
-}
-
-
 // A collection object holding the four seasons.
 def seasons = ["winter", "season", "Spring", "Autum"]
 for(season in seasons){
